@@ -6,4 +6,4 @@ Make sure a working camera is there in the computer or you have linked your phon
 
 Nothing else is expected from the user, and the game will run smoothly.
 
-## Flappy_bird_game-Opencv
+## ENJOY
